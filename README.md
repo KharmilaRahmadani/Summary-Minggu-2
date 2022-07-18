@@ -30,11 +30,15 @@ Contoh fungsi syntax :
 **Tipe Data** = Klasifikasi dari berbagai macam data
 
 >Ada 6 tipe data fundamnetal JS :
->1. Number = Tipe data bertipe angka bernilai bilangan bulat. Tipe data Number terbagi menjadi 2 yaitu :
+>1. Number = Tipe data bertipe angka bernilai bilangan bulat. 
+
+>Tipe data Number terbagi menjadi 2 yaitu :
 * Integer (terdiri atas bilangan bulat positif atau negatif)
 * float/decimal (terdiri atas bilangan desimal)
 
->2. String = Tipe data yang penulisannya diawali dengan "..." atau '...'. Tipe data String terbagi menjadi 2 yaitu :
+>2. String = Tipe data yang penulisannya diawali dengan "..." atau '...'. 
+
+>Tipe data String terbagi menjadi 2 yaitu :
 * Char (terdiri atas huruf alphabet)
 * aaaaa
 
@@ -42,7 +46,7 @@ Contoh fungsi syntax :
 
 >4. Null = Tipe data yang diartikan bahwa sebuah variabel atau data tidak memiliki nilai.
 
->5. Onjek = Koleksi data yang saling berhubungan dengan dunia nyata.
+>5. Objek = Koleksi data yang saling berhubungan dengan dunia nyata.
 
 ### Variabel ###
 **Variabel** = diibaratkan sebagai tempat atau wadah untuk menyimpan data.
@@ -55,19 +59,23 @@ Contoh fungsi syntax :
 >Ada 3 cara mendifinisikan variabel :
 1. **var** = Pendefinisian di JavaScript, namun versi jadul atau lawas.
 2. **let** = Pendefinisian di JavaScript terbaru ES6.
-3. **cons** = Pendefinisian variabel dengan nilai yang tidak bisa diubah atau mutlak. Contoh : nilai `phi` pada suatu luas lingkaran yang bernilai mutlak 3,14 atau 22/7.
+3. **cons** = Pendefinisian variabel dengan nilai yang tidak bisa diubah atau mutlak. 
+Contoh : nilai `phi` pada suatu luas lingkaran yang bernilai mutlak 3,14 atau 22/7.
 
 >**Note :** `Dianjurkan menggunakan let daripada var, karena lebih dinamis atau dapat diubah..
 
 ### Aturan Penamaan Variabel : ###
 1. Harus deskriptif. Artinya, harus bisa mendeskripsikan tentang data yang disimpan.
 2. Tidak dapat menggunakan number di awal nama variabel.
+
 `Contoh : Mila123`
 3. Gunakan Camelcase untuk penamaan yang lebih dari 1 kata.
+
 `Contoh : TugasMilaFix`
 
 ### Assignment Operator ###
 **Assignment Operator** = digunakan untuk menyimpan sebuah nilai pada variabel.
+
 `Contoh : Let myName = 'Kharmila Rahmadani'`
 
 ### Mathematical Assignment Operator ###
@@ -78,6 +86,7 @@ Contoh fungsi syntax :
 
 ### Aritmatic Operator ###
 **Aritmatic Operator** = operator yang melibatkan operasi matematika. 
+
 `Contoh :`
 1. Tambah (+)
 2. Kurang (-_
@@ -87,6 +96,7 @@ Contoh fungsi syntax :
 
 ### Comparism Operator ###
 **Comparism Operator** = operator yang digunakan untuk membandingkan suatu nilai dengan nilai lainnya.
+
 >Simbol Comparism Operator :
 * Lebih kecil dari              : **<**
 * Lebih besar dari              : **>**
@@ -106,6 +116,7 @@ Contoh fungsi syntax :
 
 ### Looping (Perulangan) ###
 **Looping** = sebuah statement yang **mengulang** sebuah instruksi sehingga kondisi terpenuhi atau jika kondisi berhenti tercapai.
+
 >Ada 3 macam Looping :
 1. **For Loop** = Intruksi perulangan yang dapat kita berikan pada program  yang kita kembangkan
 2. **While Do** = Intruksi perulangan
