@@ -175,6 +175,23 @@ Scope terdiri atas :
 Pemanfaatan **Blocks* yaitu pada saat digunakannya conditional, function, dan  looping.
 
 ## **JavaScript-Function** ##
+**Function** = Sekumpulan kode yang dirancang untuk melakukan tugas tertentu
 
 ![function](https://user-images.githubusercontent.com/109120017/180788012-ec4b35a5-0b86-497d-a339-d3d5a788067e.png)
+
+
+# ***DAY 3*** #
+**LIVE CODING DARI KAK REKA**
+Mempelajari terkait studi kasus dengan live coding
+
+
+# ***DAY 4*** #
+**Re-Practice about Algortm**
+*Algoritma yang mendasar ada 3, yaitu :
+1. Percabangan (conditional)
+2. perulangan (looping)
+3. runut/sequence (procedural)
+
+
+`Pada hari ke-4 ini membahas terkait bagaimana mendeklarasi algoritma dari pseudocode`
 
