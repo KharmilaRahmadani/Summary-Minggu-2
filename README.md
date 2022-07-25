@@ -20,12 +20,15 @@ Dalam bahasa programan, dikenal juga istilah **Syntax** dan **Statement**
 
 Contoh fungsi syntax :
   * alert
+  
   ![5](https://user-images.githubusercontent.com/109120017/180774782-434335f6-1c54-406f-b46a-6850bc0cad26.png)
 
   * confirm
+  
   ![perintah-confirm-di-javascript](https://user-images.githubusercontent.com/109120017/180775597-8bfa41ad-208e-4d93-9440-766cd5d85bf9.png)
 
   * prompt
+  
 ![niguru (4)](https://user-images.githubusercontent.com/109120017/180775711-5d3ee705-9c4a-416c-b66e-a66d5e2156ca.png)
 
 ### Console Log ###
@@ -36,9 +39,11 @@ Contoh fungsi syntax :
 
 
   1. Single Comments
+  
   ![arsfs](https://user-images.githubusercontent.com/109120017/180775983-85767763-347b-4bfd-bba0-31f70e274907.png)
 
   2. Multiline Comments
+  
 ![vcbcb](https://user-images.githubusercontent.com/109120017/180776121-1a9559ea-4dbd-4a3d-b628-c4856db095e7.png)
 
 
@@ -48,6 +53,7 @@ Contoh fungsi syntax :
 
 >**Ada 6 tipe data fundamnetal JS :**
 >1. Number = Tipe data bertipe angka bernilai bilangan bulat. 
+
 ![a](https://user-images.githubusercontent.com/109120017/180776505-93d38d50-9ca4-4847-860f-1ae13218bb6d.png)
 
 >**Tipe data Number terbagi menjadi 2 yaitu :**
@@ -55,12 +61,15 @@ Contoh fungsi syntax :
    * float/decimal (terdiri atas bilangan desimal)
 
 >2. String = Tipe data yang penulisannya diawali dengan "..." atau '...'. 
+
 ![b](https://user-images.githubusercontent.com/109120017/180776634-93215df7-43d1-4610-acf5-10876935f0b8.png)
 
 >3. Boolean = Tipe data yang hanya mempunyai 2 buah nilai yaitu **TRUE** or **FALSE.**
+
 ![c](https://user-images.githubusercontent.com/109120017/180777234-d6b5ef3f-6526-42e2-8482-a6e6e443bfd8.png)
 
 >4. Null = Tipe data yang diartikan bahwa sebuah variabel atau data tidak memiliki nilai. 
+
 ![d](https://user-images.githubusercontent.com/109120017/180777425-0451d555-0192-41b8-a4df-862931290964.png)
 
 >5 Undefined = Tipe data yang merepresentasikan varibel/data yang tidak memiliki nilai. Biasanya didapat dari hasil kesalahan program (error), kelalaian programmer, dan tidak direncanakan.
@@ -68,12 +77,14 @@ Contoh fungsi syntax :
 
 >6. Objek = Koleksi data yang saling berhubungan dengan dunia nyata dan dapat menyimpan data dengan tipe data apapun (number, string, boolean, dan lainnya).
 Tipe data object mempunyai **key** dan **value.**
+
 ![e](https://user-images.githubusercontent.com/109120017/180778372-0ab6e0dd-9639-467e-851e-47e207c3f16f.png)
 
 
 
 ### Variabel ###
 **Variabel** = diibaratkan sebagai tempat atau wadah untuk menyimpan data.
+
 ![download](https://user-images.githubusercontent.com/109120017/180778587-d2d1e0a4-a0f9-4891-8013-ee8f3afc6119.png)
 
 
@@ -153,7 +164,9 @@ Tipe data object mempunyai **key** dan **value.**
 ## **JavaScript-Scope** ##
 **Scope** = konsep dalam flow data variabel.
 
-Scope global dan lokal
+Scope terdiri atas :
+**global** dan **lokal**
+
 `Analogi: ketika kita melihat bintang di langit, orang-orang di belakang bumi lainnya bisa melihat bintang juga karena bumi bersifat **global**.`
 `Namun, jika kita tinggal di Sumbawa, maka kita tidak dapat melihat monas yang ada di jakarta karena ikon tersebut bersifat lokal yaitu hanya ada di Jakarta.`
 
