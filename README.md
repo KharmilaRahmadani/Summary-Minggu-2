@@ -186,7 +186,7 @@ Mempelajari terkait studi kasus dengan live coding
 
 
 # ***DAY 4*** #
-**Re-Practice about Algortm**
+**Mengulas Materi Tentang Algoritma**
 *Algoritma yang mendasar ada 3, yaitu :
 1. Percabangan (conditional)
 2. perulangan (looping)
@@ -194,4 +194,10 @@ Mempelajari terkait studi kasus dengan live coding
 
 
 `Pada hari ke-4 ini membahas terkait bagaimana mendeklarasi algoritma dari pseudocode`
+
+# ***DAY 5*** #
+**Practice About Algoritm**
+`kak Reka memberikan beberapa contoh pertanyaan kepada peserta agar dijawab`
+>Pertanyaan membutuhkan logika dalam memecahkannya
+
 
