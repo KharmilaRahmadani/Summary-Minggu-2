@@ -170,4 +170,11 @@ Scope terdiri atas :
 `Analogi: ketika kita melihat bintang di langit, orang-orang di belakang bumi lainnya bisa melihat bintang juga karena bumi bersifat **global**.`
 `Namun, jika kita tinggal di Sumbawa, maka kita tidak dapat melihat monas yang ada di jakarta karena ikon tersebut bersifat lokal yaitu hanya ada di Jakarta.`
 
+**Blocks** = kode yang berada di dalam *curly braces* []
+
+Pemanfaatan **Blocks* yaitu pada saat digunakannya conditional, function, dan  looping.
+
+## **JavaScript-Function** ##
+
+![function](https://user-images.githubusercontent.com/109120017/180788012-ec4b35a5-0b86-497d-a339-d3d5a788067e.png)
 
